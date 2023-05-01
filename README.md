@@ -1,5 +1,9 @@
 # block-16-functions
 
+### 1. block 16 functions assignment with all functions and if / else-if / else statement
+
+### 2. block 16 functions assignment with for loop encapsulating functions and if / else-if / else statement
+
 ## break down the assignment question to different functions based on calculations for checkout system of pharmaceutical startup company
 
 ### use variables to retrieve values from objects (3 separate customers)
